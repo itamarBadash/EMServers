@@ -38,7 +38,7 @@ The **EMServers** library provides a multi-threaded implementation of TCP and UD
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/EMServers.git
+   git clone https://github.com/itamarBadash/EMServers.git
    cd EMServers
    ```
 
